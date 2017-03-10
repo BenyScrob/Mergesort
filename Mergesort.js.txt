@@ -1,3 +1,6 @@
+var b=j;
+
+
 function mergeSort(a) {
 	if (a.length<2){
   	return a;
